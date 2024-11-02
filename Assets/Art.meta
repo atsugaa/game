@@ -1,6 +1,14 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 1afa40bf4ab701e43963152e0a057d47
+=======
+<<<<<<<< HEAD:Assets/Art.meta
+guid: efabd179ac1863e40b316f662672da49
+========
+guid: ca3844c0f53862d4e8246a80fb2628b0
+>>>>>>>> 441e9f7a4f11467b4e30203e12909ba887080ad4:Assets/Scenes.meta
+>>>>>>> 5864234e829b3c351a40730b7d4e1a80daf0b5aa
 =======
 guid: 31f89dc64465d7a46a5f84635f7461df
 >>>>>>> 441e9f7a4f11467b4e30203e12909ba887080ad4
