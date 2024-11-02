@@ -1,0 +1,1489 @@
+fileFormatVersion: 2
+guid: 29393691570a7974096bdbdafbf57f64
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: dc9f235eaa9758b4da07b5cae922d740
+      internalID: 1408504412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c622d4cd399b34297a42e8c664774f
+      internalID: 805235077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dc1dcf9e4c9cb4b9be3df4db51162f
+      internalID: -1990481824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeb889416250c545aad3f8105003acd
+      internalID: -32196387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f476f3d0bf2df54fa23ac964aacb157
+      internalID: 1370610080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3fff044ebe7ca4480af09697f2372c
+      internalID: -122052974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039fda672a078224588110946b7b385d
+      internalID: 1363885909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaae0784c71e81349aeb0b9dc2c65ebc
+      internalID: -400706417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fc63b62b22e04489849989b4127294
+      internalID: 2003665314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23825ad94f2af4547999c41f69e47cf7
+      internalID: 958934571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425826729d1ad674a8dd06f66193aa57
+      internalID: -710063663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da09d1f7871acc41bcd33cbd4171eee
+      internalID: 1359316767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7239c23ffecb034aaccb5b2adaee9f2
+      internalID: -1215420104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85630a418fda8434798638fc7fb3d0e1
+      internalID: 1414489948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728519f6664aec54eb4543112034e3ee
+      internalID: -1603947239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055a3ec0585f41f43ac8c0dc317c383f
+      internalID: 596827161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bd6030dc202d741aa52302090abff6
+      internalID: 1273648944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1f92e4004719845a2f55e3ac6b39ae
+      internalID: 1598083536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f31447a23f32e44d9ecf2092b64ed90
+      internalID: -1654397580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7861479993d4a4e8aec7b5d1972cfa
+      internalID: -653579268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe640b77a15d57b4aaad2ddd29cbcb95
+      internalID: -811755759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f9881bbbc0df24c8e0290de2418ed3
+      internalID: 530151897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f216a9750bc47fe489f3ce7b0623512b
+      internalID: -536795005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24c6161dcbdde943a17b0970f992743
+      internalID: 2099891830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fb3636d2622fe48808aa942fbd8391
+      internalID: 266881022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cf8ed8aa5c6a540bf2051edf30fd91
+      internalID: 1891246242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eb3a91a2ecce44689f1b30bf768461
+      internalID: -421901052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cea4988ac25e94683b5c38094ea37d
+      internalID: -1339406717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d798bb0b3c9221442abf5a4ebaaac7f7
+      internalID: 502701723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30831ccb167bc094882214feb3cb5c1e
+      internalID: -662014987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c6eec56879b9342aa217cf0851d996
+      internalID: -913310003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba7f92db9ae35941a3d9278b5181676
+      internalID: -1831022119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b4b992a5f630c40820a51e0fa5d6ce
+      internalID: -1430761916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e5442c9b0694347b9da2af78f10c64
+      internalID: -1811119470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_40
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cb70acf6d482a4c9f50b9ca8b9438a
+      internalID: 2122647562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d95595a267b6b34694490d5b720aeca
+      internalID: -1098031529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a711cfb9f4e3a74088e3ee16b103109
+      internalID: -2081408359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3a8ce5c48f0aa4cbb484bca57c8e18
+      internalID: -510466211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d20a95323ae2b499e85a949f5e26e6
+      internalID: -1213976910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffef418776b4876489aabf7b83c24f06
+      internalID: 1088216276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde4fe6b643873e4faa9303d3182c39f
+      internalID: 946045233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70aef20bf8953c4c9d371d4cf7e2837
+      internalID: -1860940236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfcd088bcef0284ba16ba505f088a8d
+      internalID: 1388225653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ee9a48beca7f242afd253424e9233f
+      internalID: -19065962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2ef87c35fa0e84c8f849482fdb5621
+      internalID: -3130062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600cab53deb1a3f4dbc15f92f13fa860
+      internalID: 451271725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21c1f891e1c8b3408d6a8317e087b4b
+      internalID: 370924825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ed7b2e12a02f545aa4ff70c4dc0a16
+      internalID: 511097288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804df3074aaa89944820391453317f73
+      internalID: -747513395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852b316318b47a04d81ff218a42df5e5
+      internalID: -1250668350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b653a92419fc9544fa3449d8498233b3
+      internalID: 804466209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5412004dbc75c4548af9cd9c7c0f4b35
+      internalID: -270024411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e13720b39d1f2458eb8b611a2476e6
+      internalID: 2094039493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c178e6a83a67cd849bb500735f1227b2
+      internalID: 542401415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9592b4c04e7bf4c9463a48a87bf4ad
+      internalID: -357634537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de027163ac39274489d98556b725504f
+      internalID: 129722504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90ac30684733e045ae8e8b3e307e51a
+      internalID: -109931128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcff10d02dbd3fa4da702db26505ce22
+      internalID: -1205690202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9c5b4c89af9b44989a0c64def9854d
+      internalID: -1953470836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62faea34b0d27ea4bbeebd0aed070773
+      internalID: -1673431284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8 Directional Walk Cycle Sprite Sheet 1 Native Size_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4b2a95e184e504da4fc846a7b072e0
+      internalID: -553277359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_0: 1408504412
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_1: 805235077
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_10: 1155558933
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_11: 2003665314
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_12: 958934571
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_13: -710063663
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_14: 1359316767
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_15: -1215420104
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_16: 1414489948
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_17: -1603947239
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_18: 596827161
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_19: 1831817294
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_2: -1990481824
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_20: 1353462521
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_21: -833986547
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_22: 1273648944
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_23: 1598083536
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_24: -1654397580
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_25: -653579268
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_26: -811755759
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_27: 530151897
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_28: -536795005
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_29: 2099891830
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_3: -32196387
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_30: 266881022
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_31: 1891246242
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_32: -421901052
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_33: -1339406717
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_34: 502701723
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_35: -662014987
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_36: -913310003
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_37: -1831022119
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_38: -1430761916
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_39: -1811119470
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_4: 1370610080
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_40: 2122647562
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_41: -2033396604
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_42: -1716928269
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_43: -1926274162
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_44: -1098031529
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_45: -2081408359
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_46: -510466211
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_47: -1213976910
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_48: 1088216276
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_49: 946045233
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_5: -122052974
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_50: -1860940236
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_51: 1388225653
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_52: -1988278927
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_53: -19065962
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_54: 295916942
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_55: -3130062
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_56: 451271725
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_57: 370924825
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_58: 511097288
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_59: -747513395
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_6: 1363885909
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_60: -1250668350
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_61: 804466209
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_62: -270024411
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_63: -592481241
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_64: 886771229
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_65: 2094039493
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_66: 542401415
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_67: -357634537
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_68: 129722504
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_69: -109931128
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_7: -400706417
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_70: -1205690202
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_71: -1953470836
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_72: -1673431284
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_73: -553277359
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_74: -1156668621
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_75: -286249419
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_76: -2087221085
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_8: -2111961815
+      8 Directional Walk Cycle Sprite Sheet 1 Native Size_9: 1077037117
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
