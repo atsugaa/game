@@ -14,11 +14,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_SupportedDevices: []
   m_UpdateMode: 1
+<<<<<<< HEAD
+=======
+  m_ScrollDeltaBehavior: 0
+>>>>>>> 9ff24dd89439f8a6ac19c4b747995a1cb5bb182b
   m_MaxEventBytesPerUpdate: 5242880
   m_MaxQueuedEventsPerUpdate: 1000
   m_CompensateForScreenOrientation: 1
   m_BackgroundBehavior: 0
   m_EditorInputBehaviorInPlayMode: 0
+<<<<<<< HEAD
+=======
+  m_InputActionPropertyDrawerMode: 0
+>>>>>>> 9ff24dd89439f8a6ac19c4b747995a1cb5bb182b
   m_DefaultDeadzoneMin: 0.125
   m_DefaultDeadzoneMax: 0.925
   m_DefaultButtonPressPoint: 0.5
