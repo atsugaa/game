@@ -7,11 +7,20 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
-    guid: ab112b81cf657d045ab5ee3acc873f80
+    guid: 28be0fd04f49389499999780b511cda2
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 0a0ddaeb0f0e043488b737cd9f78fbe3
   - enabled: 1
     path: Assets/Scenes/laboratorium.unity
     guid: 8f29175455036dc46889f32673287e81
+  - enabled: 1
+    path: Assets/Scenes/desa.unity
+    guid: 37d8e203163d61043871b4982f1ab371
+  - enabled: 1
+    path: Assets/Scenes/hutan.unity
+    guid: 5b6eb7a5fc68631428048012a0f54255
+  - enabled: 1
+    path: Assets/Scenes/Pantai.unity
+    guid: 744bd500413efe8418879b8a8f544c19
   m_configObjects: {}

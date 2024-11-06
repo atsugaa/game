@@ -41,8 +41,11 @@ public class PauseMenu : MonoBehaviour
         Paused.SetActive(false);  // Menyembunyikan menu pause
     }
 
+    
+
     public void MainMenu()
     {
+        DataPersistenceManager.instance.SaveGame();
         SceneManager.LoadScene("MainMenu");
     }
 

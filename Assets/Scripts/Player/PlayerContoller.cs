@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.PlayerLoop;
+using UnityEngine.SceneManagement;
 
-public class PlayerContoller : MonoBehaviour
+public class PlayerContoller : MonoBehaviour, IDataPersistence
 {
     public float moveSpeed = 1f;
     public float collisionOffset = 0.05f;
@@ -21,6 +22,17 @@ public class PlayerContoller : MonoBehaviour
         PauseMenu.isPaused = false;
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+    }
+
+    public void LoadData(GameData data) 
+    {
+        this.transform.position = data.playerPosition;
+    }
+
+    public void SaveData(GameData data) 
+    {
+        data.playerPosition = this.transform.position;
+        data.sceneName = SceneManager.GetActiveScene().name;
     }
 
     // Update is called once per frame

@@ -1,0 +1,2327 @@
+fileFormatVersion: 2
+guid: c500b4cc91b210a41a80721ff1b767dd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aset gua_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ffcc74deb3a954a85f7fa29bf32dd2
+      internalID: 439602271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 535.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc82e9a1140e3114abdeb5d885207435
+      internalID: 1136882367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 535.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa593d548239ee418b681ea7d8da7d7
+      internalID: 75027359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 535.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ace3df3ac218644984e959977fbac75
+      internalID: -961229571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 535.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004a6c63a5105bf47bec0fb0f5f15e03
+      internalID: 901954622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 535.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021377a42e16b3d4bb95519ac07a350a
+      internalID: -892671007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_6
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 535.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c353c4c495b5f4daa0979a7e2b4948
+      internalID: -1785744023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_7
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 535.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8edcaa794c0a34aa7d4d32390734ed
+      internalID: -1782819990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 535.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e51fe0482b928448c15f007f8ec792
+      internalID: 729137529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 535.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0b6ba1cb7ab3c46aaefa967681a028
+      internalID: -1857868951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7244074d27f9e418cdb68dd96c2bd8
+      internalID: 149734732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 476.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bdcc330e5aaee4f904db4a6f5b52f9
+      internalID: -379950000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 476.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae9408d09fb373439d93faf3d8465cc
+      internalID: 1042257273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 476.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc06fd17eb31a342adf1aedc8c925f7
+      internalID: -1916647130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 476.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0095697f0740d9b418f522753dc4f813
+      internalID: 2096537646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 476.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d7ed63ab724314e91c786af42e88f1
+      internalID: -1072106653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_16
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 476.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aa286e693223442b7da2b2d51a3073
+      internalID: 706065591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 476.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687109951f231094397ab30d6b25f2c0
+      internalID: -1525721834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_18
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 476.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63c6f7059339f64f94f96ec4a263c22
+      internalID: 1108583149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_19
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 476.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ecf19e9ff52d540b7b2e0e6d57a79e
+      internalID: -1791806179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999a3e3a11cf8994bbfeeacecf013148
+      internalID: 1270085263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 417.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a7e5ac5c251884bb20cd8118119f45
+      internalID: -994111905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 417.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cb95d47434f5445b1d5ed3c21dc83b
+      internalID: -32368856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 417.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df773afed10b67b448f6f13933efd0a3
+      internalID: 1244805379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 417.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e09ca5e160599b48836b3269f30f2f3
+      internalID: -1697986212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 417.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173a28527926dfc4ebf2d1bb631a1178
+      internalID: 232480346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_26
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 417.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9900e745df79ad4d8ba50637a0a8090
+      internalID: 1863643482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_27
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 417.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00efffb197f5ae4fa71347ee84f07d5
+      internalID: 1664998720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_28
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 417.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b1bc9e810686b4a8b2892390526746
+      internalID: 1349475187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_29
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 417.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58898eb4c6a25fc48b9f9b39715f9921
+      internalID: -260591062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c274bba527c4c4f83d703bcc91e08e
+      internalID: -332416404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 358.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf70600e777e641b072f353bd914a2
+      internalID: -1181726858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 358.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594411f72b2fbe04b8089f5d2ded6356
+      internalID: -2056942578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_33
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 358.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7710f82d33844c249b12bb58186b29a5
+      internalID: 1492427116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_34
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 358.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af48aea666716014eadfadd175539a61
+      internalID: -1603665867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_35
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 358.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b613108a46f4949ad6b4828e4b3fab
+      internalID: 119805631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_36
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 358.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c01b23fe3c88444bc40c059efdf026
+      internalID: 876174711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_37
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 358.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8338977842b2f4dafa796dff31fba9
+      internalID: -1271874689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_38
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 358.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8b5476435a4864ba88dc32ca24d95b
+      internalID: 1587023279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_39
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 358.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13ae550172d9624a99f5bbf335cf2c8
+      internalID: 1247493113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0396d12b2511fba4a858b23a889136ed
+      internalID: -1420528392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_41
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 299.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43848e46a87110d449a7439eaaa0e6ad
+      internalID: -595954064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 299.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c505e817d11f3c043b0e9664adc17f4d
+      internalID: -1031435092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 299.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d2d37e73c626547a3ec01d0a99608e
+      internalID: 367162829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_44
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 299.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1bc5b7cdf293946a72f20d81b055ca
+      internalID: -1568544920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_45
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 299.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6f4a64c7f02a74d8689ce8f5c914b3
+      internalID: -65298376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_46
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 299.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363286297f9d6c644ab3c05971bf25c6
+      internalID: -267759853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_47
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 299.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339c0c111a867f74dbcb17bf7b809ebb
+      internalID: -1862605424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_48
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 299.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935b327c702ab5945be39b592d341f63
+      internalID: -1785769647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_49
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 299.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b9b0ccdca2a504baf6ddee47906696
+      internalID: 1675822329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c965a9373bfa1b498fdaafeca5b935c
+      internalID: 1792682064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_51
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 240.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9024201c83f8d8b4c8c41dd3568c6c72
+      internalID: 983439812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_52
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 240.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d053f3b94d68e82468f35623d11bb8a3
+      internalID: 124344526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_53
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 240.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2e87ae28730c449bfbc26cd75792fe
+      internalID: 895596167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_54
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 240.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735cf731a22d3ff4d851096360bb0c39
+      internalID: 411604326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_55
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 240.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa80fd71b74459429c4f724f36a9120
+      internalID: 1901888545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_56
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 240.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a895d4ad286db14448124defb292a9a3
+      internalID: -650291937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_57
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 240.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6162cce61058e2e49b2d97e7406ac4b1
+      internalID: -1848026970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_58
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 240.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03fb4182b85a7945a540c8b10650e57
+      internalID: -1862142663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_59
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 240.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ab55874084cc641acc6b33b6a89c5f
+      internalID: -769078672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17afb9a651f997644a27c4092417a8d8
+      internalID: -69461506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_61
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 181.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c869851e2d7f34496715a36d6788ad
+      internalID: -204144039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_62
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 181.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e91c7d1f3ab5d49a957e47a9392757
+      internalID: -1246950020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_63
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 181.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c20c99a7c5b27489c20b7243ae57e0
+      internalID: -440939009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_64
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 181.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d06b4bb18e3af4685c4d4171729d30
+      internalID: 331483701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_65
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 181.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b34b69d87ae48d479b3236017edf7fd
+      internalID: 598005195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_66
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 181.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c0fa40eabb0b343ad3abf97183e8fb
+      internalID: -1015095148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_67
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 181.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9770dc654ea5e6d4cb454bdd389def30
+      internalID: -1683559746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_68
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 181.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bc662a93ad4f74ab1fb17146357758
+      internalID: 1325851038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_69
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 181.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fa4f1eedf25324ab663559657b1b2e
+      internalID: 114047278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf18900c7fe26864ab7ad97b0e40f6b0
+      internalID: 1952810890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_71
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 122.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90189c0fda2db747b77aff9662e4d09
+      internalID: -1450718675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_72
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 122.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a6cbe38d1b03c40a2a8de3676e2b95
+      internalID: 266805496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_73
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 122.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7f7f6a213d56d4ca10686d0c9296d9
+      internalID: -1392773693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_74
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 122.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5148516b56bb854da7b1640596d22ea
+      internalID: 1994253051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_75
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 122.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3663af8d69678b04ebe06102d43d3283
+      internalID: 324421194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_76
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 122.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731029258ac27914caf13dfe36b2978a
+      internalID: 1232246092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_77
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 122.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74db5f10c1168c04f894cf127f0ec288
+      internalID: -252125261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_78
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 122.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378dd3539f9f67c4898b8c85e8a3f1c7
+      internalID: 1549598328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_79
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 122.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ecaf56379ed3d41a14f0bdf5a7d6f1
+      internalID: 1716516806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c62d60cc7f4154e9250f60059e9310
+      internalID: 2081090120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_81
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 63.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292bf0b15139ed644a5ac678842962ed
+      internalID: 140305059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_82
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 63.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda4aefc7cd7dd04aaf6eae20be966ef
+      internalID: 893016422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_83
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 63.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fe804d9e0729f43a644a8e196cf143
+      internalID: 1515967653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_84
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 63.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab55ed58738f3842b6bf927b26d126e
+      internalID: 1030549542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_85
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 63.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa28f3e736f98664a87c5f8460ca8c16
+      internalID: -267616611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_86
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 63.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dd161e1bcb7104ca5adebf4714efa0
+      internalID: -1579492185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_87
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 63.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9771382a75b33ed4881e9f59d13889f0
+      internalID: 1011239623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_88
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 63.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d727ee6cab3b3e4ab50285a7567d889
+      internalID: -1213932364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_89
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 63.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8763d1feda761874ba3936629c3180ec
+      internalID: -247753829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcb89f80217cbd41be15a3cd92e1705
+      internalID: 563999004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_91
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d395a5994cd006f45a5dd31ea3dc7972
+      internalID: -1842608682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_92
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 4.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdda5003e622d294cb6e3cd845a37467
+      internalID: -757670731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_93
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 4.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a0e2bd46a1049439e90a57eb692a51
+      internalID: -1224255882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_94
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 4.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c132e217b8ba6a4d9567e2259bccc62
+      internalID: 873728651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_95
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 4.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edeb0bde6982404dbe72b1e7d0ec922
+      internalID: -257117435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_96
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 4.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fe9261483288b41b500febb4bd9352
+      internalID: 1682937314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_97
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 4.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af28a5ce8c56f6f4f85f5818b72deaa9
+      internalID: -372172958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_98
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 4.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160f554dcdf97da4e89e592daa4a534c
+      internalID: 1902049917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aset gua_99
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 4.5
+        width: 79.4
+        height: 59.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a5ee4af8d947c4e875d44209b44957
+      internalID: 1110977039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      aset gua_0: 439602271
+      aset gua_1: 1136882367
+      aset gua_10: 149734732
+      aset gua_11: -379950000
+      aset gua_12: 1042257273
+      aset gua_13: -1916647130
+      aset gua_14: 2096537646
+      aset gua_15: -1072106653
+      aset gua_16: 706065591
+      aset gua_17: -1525721834
+      aset gua_18: 1108583149
+      aset gua_19: -1791806179
+      aset gua_2: 75027359
+      aset gua_20: 1270085263
+      aset gua_21: -994111905
+      aset gua_22: -32368856
+      aset gua_23: 1244805379
+      aset gua_24: -1697986212
+      aset gua_25: 232480346
+      aset gua_26: 1863643482
+      aset gua_27: 1664998720
+      aset gua_28: 1349475187
+      aset gua_29: -260591062
+      aset gua_3: -961229571
+      aset gua_30: -332416404
+      aset gua_31: -1181726858
+      aset gua_32: -2056942578
+      aset gua_33: 1492427116
+      aset gua_34: -1603665867
+      aset gua_35: 119805631
+      aset gua_36: 876174711
+      aset gua_37: -1271874689
+      aset gua_38: 1587023279
+      aset gua_39: 1247493113
+      aset gua_4: 901954622
+      aset gua_40: -1420528392
+      aset gua_41: -595954064
+      aset gua_42: -1031435092
+      aset gua_43: 367162829
+      aset gua_44: -1568544920
+      aset gua_45: -65298376
+      aset gua_46: -267759853
+      aset gua_47: -1862605424
+      aset gua_48: -1785769647
+      aset gua_49: 1675822329
+      aset gua_5: -892671007
+      aset gua_50: 1792682064
+      aset gua_51: 983439812
+      aset gua_52: 124344526
+      aset gua_53: 895596167
+      aset gua_54: 411604326
+      aset gua_55: 1901888545
+      aset gua_56: -650291937
+      aset gua_57: -1848026970
+      aset gua_58: -1862142663
+      aset gua_59: -769078672
+      aset gua_6: -1785744023
+      aset gua_60: -69461506
+      aset gua_61: -204144039
+      aset gua_62: -1246950020
+      aset gua_63: -440939009
+      aset gua_64: 331483701
+      aset gua_65: 598005195
+      aset gua_66: -1015095148
+      aset gua_67: -1683559746
+      aset gua_68: 1325851038
+      aset gua_69: 114047278
+      aset gua_7: -1782819990
+      aset gua_70: 1952810890
+      aset gua_71: -1450718675
+      aset gua_72: 266805496
+      aset gua_73: -1392773693
+      aset gua_74: 1994253051
+      aset gua_75: 324421194
+      aset gua_76: 1232246092
+      aset gua_77: -252125261
+      aset gua_78: 1549598328
+      aset gua_79: 1716516806
+      aset gua_8: 729137529
+      aset gua_80: 2081090120
+      aset gua_81: 140305059
+      aset gua_82: 893016422
+      aset gua_83: 1515967653
+      aset gua_84: 1030549542
+      aset gua_85: -267616611
+      aset gua_86: -1579492185
+      aset gua_87: 1011239623
+      aset gua_88: -1213932364
+      aset gua_89: -247753829
+      aset gua_9: -1857868951
+      aset gua_90: 563999004
+      aset gua_91: -1842608682
+      aset gua_92: -757670731
+      aset gua_93: -1224255882
+      aset gua_94: 873728651
+      aset gua_95: -257117435
+      aset gua_96: 1682937314
+      aset gua_97: -372172958
+      aset gua_98: 1902049917
+      aset gua_99: 1110977039
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
