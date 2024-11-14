@@ -18,13 +18,13 @@ public class MainMenu : MonoBehaviour
     // Start is called before the first frame update
     public void Play() {
         DataPersistenceManager.instance.NewGame();
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("LoadingScreen");
     }
 
     public void Load() {
         DataPersistenceManager.instance.SaveGame();
         DataPersistenceManager.instance.LoadGame();
-        SceneManager.LoadScene(DataPersistenceManager.instance.getScene());
+        SceneManager.LoadScene("LoadingScreen");
     }
 
     // Update is called once per frame

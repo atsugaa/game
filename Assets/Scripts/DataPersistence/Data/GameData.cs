@@ -15,10 +15,8 @@ public class GameData
     // the game starts with when there's no data to load
     public GameData() 
     {
-        this.health = 100;
-        playerPosition.x = (float)-1.8;
-        playerPosition.y = (float)1.2;
+        health = 100;
         playerAttributesData = new AttributesData();
-        sceneName = "SampleScene";
+        sceneName = "laboratorium";
     }
 }

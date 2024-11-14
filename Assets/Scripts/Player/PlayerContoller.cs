@@ -8,6 +8,7 @@ using UnityEngine.SceneManagement;
 public class PlayerContoller : MonoBehaviour, IDataPersistence
 {
     public float moveSpeed = 1f;
+    public Transform flashlightTransform;
     public float collisionOffset = 0.05f;
     public ContactFilter2D movementFilter;
     Vector2 movementInput;
@@ -22,11 +23,17 @@ public class PlayerContoller : MonoBehaviour, IDataPersistence
         PauseMenu.isPaused = false;
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+
     }
 
     public void LoadData(GameData data) 
     {
-        this.transform.position = data.playerPosition;
+        if (data.playerPosition.x != 0.0 && data.playerPosition.y != 0.0) {
+            this.transform.position = data.playerPosition;
+            SetFlashlightDirection(data.playerPosition);
+        } else {
+            SetFlashlightDirection(this.transform.position);
+        }
     }
 
     public void SaveData(GameData data) 
@@ -44,6 +51,9 @@ public class PlayerContoller : MonoBehaviour, IDataPersistence
                 animator.SetFloat("moveX", movementInput.x);
                 animator.SetFloat("moveY", movementInput.y);
                 animator.SetBool("moving", true);
+                // Rotasi senter mengikuti arah utama
+                SetFlashlightDirection(movementInput);
+                
                 if (!success) {
                     success = TryMove(new Vector2(movementInput.x, 0));
                     if (!success) {
@@ -76,4 +86,36 @@ public class PlayerContoller : MonoBehaviour, IDataPersistence
     void OnMove(InputValue movementValue) {
         movementInput = movementValue.Get<Vector2>();
     }
+
+    private void SetFlashlightDirection(Vector2 direction)
+    {
+        if (direction.x > 0)
+        {
+            flashlightTransform.rotation = Quaternion.Euler(0, 0, 270); // Kanan
+        }
+        else if (direction.x < 0)
+        {
+            flashlightTransform.rotation = Quaternion.Euler(0, 0, 90); // Kiri
+        }
+        else if (direction.y > 0)
+        {
+            flashlightTransform.rotation = Quaternion.Euler(0, 0, 0); // Atas
+        }
+        else if (direction.y < 0)
+        {
+            flashlightTransform.rotation = Quaternion.Euler(0, 0, 180); // Bawah
+        }
+    }
+
+    private void RotateFlashlightTowardsMouse()
+    {
+        Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        Vector3 directionToMouse = mousePosition - flashlightTransform.position;
+        directionToMouse.z = 0; // Pastikan ini tetap di bidang 2D
+
+        // Membuat quaternion yang mengarah ke posisi mouse
+        Quaternion targetRotation = Quaternion.LookRotation(Vector3.forward, directionToMouse);
+        flashlightTransform.rotation = targetRotation;
+    }
+
 }

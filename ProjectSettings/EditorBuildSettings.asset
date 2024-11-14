@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 28be0fd04f49389499999780b511cda2
   - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: f2744a9c4e9e0e54180e9eca94b0a5e1
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 0a0ddaeb0f0e043488b737cd9f78fbe3
   - enabled: 1
@@ -23,4 +26,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Pantai.unity
     guid: 744bd500413efe8418879b8a8f544c19
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: fd3142f83d10b8e43a476c0e72c8f70d, type: 2}
