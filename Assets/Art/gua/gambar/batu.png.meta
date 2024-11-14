@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: 8225943d0c59acc40883048dbf92e904
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: batu_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 600
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d98efbfa9ce1f746bf79a972d524007
+      internalID: -1950690185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 604
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f705c38ad7a7a43b793b591fbd3db2
+      internalID: 818463011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 574
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5711ed2d1f261e247839249fa56dbb1d
+      internalID: 1600454017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 614
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9943a2f4194bcff409beaf2ce33d22e9
+      internalID: 2137198458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 599
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d646a6eed6edc40a01c513d58fdd9a
+      internalID: 83183654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 616
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6254d958fa06d0447a772349406c5c67
+      internalID: -1680945562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 619
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd3a4960bb6e43499703f6dc0666cd2
+      internalID: 1927554185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 564
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7aba1c70ac6db42adf7a7d9c86eb10
+      internalID: -1353502175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 562
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dee18c0fc7c5544c9b318d850349b77
+      internalID: 323016635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 568
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401b14d162e923a40b4ce961ae1989ba
+      internalID: 1272154744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 590
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74c1d66a5c308845b2682f009a3f500
+      internalID: -260478017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 558
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea69103c7b69ac4ca5cc9cea1e52013
+      internalID: 357625867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 581
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631b6de96e1d3f6468c1244b86c1f6ed
+      internalID: 638673550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 590
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02ad37df249c4948aa3be62f3ee33bb
+      internalID: 668148178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 543
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777a1635f01089b4c88d4f5a8e3a43cf
+      internalID: -1507152080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_15
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 565
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed66502f75ae3048a376e39c1695c3b
+      internalID: -250201445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 509
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef9d92798c73ae4db8b31691608c65c
+      internalID: -622341394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 466
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f17c51c2ffeb348bc510a2a2b9dbd7
+      internalID: 1757908705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 480
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806a60f1006b888419cb907519696cd9
+      internalID: 1751812884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 471
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b15a82a666ddc4e94437d80291bdc2
+      internalID: 336343925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_20
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 482
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1472316c6fed7b946be87a759a5bcefa
+      internalID: 1642450972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 427
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4def8f70c9e221c4e95f38f6eba526d0
+      internalID: 1380673296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 430
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae56d581b085f7c48a0d1340b29e3dac
+      internalID: -1087942286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 489
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613a468f5b9d3d34da3f72f37985fba5
+      internalID: -279407859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_24
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 488
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8231d08991a78af498590bf0f611ac65
+      internalID: 1405428139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 465
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cbc205525882a4ba576e8d69abddab
+      internalID: -1404707449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 471
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe899c848de07674490dea8cfba6a5f1
+      internalID: -1488194032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 438
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2503d8a95547f478edc8825d612a7e
+      internalID: 40856902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_28
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 429
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff4d798714bd9d48afed290be9a492e
+      internalID: 515833650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 422
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b0f57144e5325489bce6169394919e
+      internalID: -2004636339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 448
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9bd2d72cc77954d961fe7effc1a540
+      internalID: -1837221786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 406
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e9fa25ba257f64ea8d7709c2229813
+      internalID: -867321815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 367
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4a4fbb9ac8dee4db6e2d92b6dea2e5
+      internalID: -854540970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 370
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf3b6ff7014de74bbe757910318271e
+      internalID: -316126528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 325
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5eca7dd2c7abb4b98d30605cc0152d
+      internalID: -437025075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 345
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57deff0e30e56b47b1bee2b7bb7637d
+      internalID: -1454680303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_36
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 291
+        width: 66
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ee88cfa76aebb45938726b476c290c
+      internalID: -1320469078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_37
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 343
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9299fee92019a40b56bb0c5a8bdaa3
+      internalID: -1646464456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 248
+        width: 59
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4b83f4e4d639f4a9cd2f906a7170ff
+      internalID: -1522316933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_39
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 294
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083d1a11b6d3d2a44a082c050e48bf83
+      internalID: 992899631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 293
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3a0565cde34714792a93df09060448
+      internalID: -876284803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 315
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79108a47f0c406443b00b4aa0572489a
+      internalID: -929236245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_42
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 319
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d009f71367d792419b1e91ba1194bd4
+      internalID: -1399502956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_43
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 321
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f778f2e9b54cb44b7cd9d913d9ec70
+      internalID: -1521016317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_44
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 331
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db881d8d5cd1b01439695e592ccd9a83
+      internalID: -855481359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_45
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 308
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd66930f4aa2174b8fa47d02428403e
+      internalID: 2014366993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_46
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 310
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99626af2151a4749b5b6ebbfc176cd9
+      internalID: 1931261034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_47
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 296
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bad170cc770744a9bb01d617fd56a0
+      internalID: -305128309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_48
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 266
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aec0729ae8e3964d9da681edbad41cc
+      internalID: -1436933778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_49
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 306
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd332c17fd9d2248a48abf95791213a
+      internalID: 1730530144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_50
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 256
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b5836a6649eb74a8b336e8c529c8a1
+      internalID: -675241865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_51
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 253
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f421a4129bd5f42adfc0351faef594
+      internalID: -81771355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_52
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 283
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b45910faaf9e1f419074c8e03324a49
+      internalID: 1968724824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_53
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 251
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6ae027022b6674f93c10f2cd3fc45d
+      internalID: -83253565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_54
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 272
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e74c3cf7ac5aa438e10eb5735b7984
+      internalID: 827013024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 282
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6933d4ae35e83af4b90949b010470e47
+      internalID: 1722476235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_56
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 235
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb5976273865534f9f4854ed53ea58a
+      internalID: -1513315170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_57
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 256
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410e963a398b0e347a6472e059ef525b
+      internalID: -712196471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_58
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 196
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e960a8932fe5bc943964d8b4502c17c4
+      internalID: 1454797326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_59
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 200
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea472cf6b2256846a36f3362065d909
+      internalID: 861882771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_60
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 158
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a4aa15478f0d44c8fe74e3f64b12b9
+      internalID: 740430120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_61
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 172
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e91de0327bf3e845bf9267ca73b7248
+      internalID: 1406922894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_62
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 163
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b0eeb888784684cb397532ca62c628
+      internalID: -1185623987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_63
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 174
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0953054226ce8e14faee140f63e2a450
+      internalID: -1826592169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 119
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a66cd89fcd48a14586627480b5c740a
+      internalID: 1765854548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_65
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 121
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c23a81dd7d3c5438aa5be33b6c6a8b
+      internalID: 918495441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_66
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 180
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e225aebf39438a7439cf96750a24fa20
+      internalID: 206099274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_67
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 180
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb8c9f5ccbe14e4b8c73265021e7baa
+      internalID: 816111137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_68
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 158
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c37fc9b67912814b88ad261dc3e719f
+      internalID: -2011854935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_69
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 163
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec7c91977e8440429cfe5f751240261
+      internalID: 163473342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_70
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 130
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c610cc7d5f99da14a91a45097ee28c84
+      internalID: -1780690876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_71
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 113
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096f9dbd841012c48beef59d458dd4a6
+      internalID: 624992724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 140
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41b504041b3baf4aa9c06c0e7350ff3
+      internalID: -1245867366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_73
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 97
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53cbed4924a18d41b0c682de36102e2
+      internalID: 413824980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_74
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 59
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc5813b1c70a214aa0aadf9d493218d
+      internalID: 1611249849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_75
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 62
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c986a3200db98045935e822bc111d3a
+      internalID: 1478778483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_76
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 17
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57c96ef453b99241a2e45dc8f1c7ba9
+      internalID: -115373667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_77
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 37
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6729b37c1228843896c262ca80f477
+      internalID: 1502077202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_78
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 21
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560c6cbd58889fd42b393b1b0528ce84
+      internalID: 711156862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_79
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 39
+        width: 11
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e7de0cdf995f469e4fdbc262d2ffe
+      internalID: -1265608329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_80
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf7d19b55a201748b7cb96eb8137f22
+      internalID: -1111186155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_81
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7326c396240cf15469f45ff0fc8bb796
+      internalID: 334992456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_82
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d344a6cca6cb46d4cbb43a5434a77ee6
+      internalID: 2042682540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_83
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 10
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbebfebe74bf7e14d8425292ab478e81
+      internalID: 954114549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_84
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 13
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39335d78e2c1f414e8eb8335afd8cbc6
+      internalID: 91217141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_85
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6991f76096c2a48b35d3690cdb120a
+      internalID: 1367464002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batu_86
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5867c407e98b45f4a8a9666dcc88419e
+      internalID: 1775570377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      batu_0: -1950690185
+      batu_1: 818463011
+      batu_10: -260478017
+      batu_11: 357625867
+      batu_12: 638673550
+      batu_13: 668148178
+      batu_14: -1507152080
+      batu_15: -250201445
+      batu_16: -622341394
+      batu_17: 1757908705
+      batu_18: 1751812884
+      batu_19: 336343925
+      batu_2: 1600454017
+      batu_20: 1642450972
+      batu_21: 1380673296
+      batu_22: -1087942286
+      batu_23: -279407859
+      batu_24: 1405428139
+      batu_25: -1404707449
+      batu_26: -1488194032
+      batu_27: 40856902
+      batu_28: 515833650
+      batu_29: -2004636339
+      batu_3: 2137198458
+      batu_30: -1837221786
+      batu_31: -867321815
+      batu_32: -854540970
+      batu_33: -316126528
+      batu_34: -437025075
+      batu_35: -1454680303
+      batu_36: -1320469078
+      batu_37: -1646464456
+      batu_38: -1522316933
+      batu_39: 992899631
+      batu_4: 83183654
+      batu_40: -876284803
+      batu_41: -929236245
+      batu_42: -1399502956
+      batu_43: -1521016317
+      batu_44: -855481359
+      batu_45: 2014366993
+      batu_46: 1931261034
+      batu_47: -305128309
+      batu_48: -1436933778
+      batu_49: 1730530144
+      batu_5: -1680945562
+      batu_50: -675241865
+      batu_51: -81771355
+      batu_52: 1968724824
+      batu_53: -83253565
+      batu_54: 827013024
+      batu_55: 1722476235
+      batu_56: -1513315170
+      batu_57: -712196471
+      batu_58: 1454797326
+      batu_59: 861882771
+      batu_6: 1927554185
+      batu_60: 740430120
+      batu_61: 1406922894
+      batu_62: -1185623987
+      batu_63: -1826592169
+      batu_64: 1765854548
+      batu_65: 918495441
+      batu_66: 206099274
+      batu_67: 816111137
+      batu_68: -2011854935
+      batu_69: 163473342
+      batu_7: -1353502175
+      batu_70: -1780690876
+      batu_71: 624992724
+      batu_72: -1245867366
+      batu_73: 413824980
+      batu_74: 1611249849
+      batu_75: 1478778483
+      batu_76: -115373667
+      batu_77: 1502077202
+      batu_78: 711156862
+      batu_79: -1265608329
+      batu_8: 323016635
+      batu_80: -1111186155
+      batu_81: 334992456
+      batu_82: 2042682540
+      batu_83: 954114549
+      batu_84: 91217141
+      batu_85: 1367464002
+      batu_86: 1775570377
+      batu_9: 1272154744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
