@@ -23,7 +23,6 @@ public class PlayerContoller : MonoBehaviour, IDataPersistence
         PauseMenu.isPaused = false;
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
-
     }
 
     public void LoadData(GameData data) 
