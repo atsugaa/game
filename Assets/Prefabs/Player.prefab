@@ -186,23 +186,27 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &193695128004020689
-Transform:
+--- !u!224 &193695128004020689
+RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8018847680887031258}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8755085285969866563}
   - {fileID: 3797540856681414835}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -53.49, y: 12}
+  m_SizeDelta: {x: 0.15, y: 0.27}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!212 &8745475614905951000
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -254,7 +258,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
+  m_SpriteSortPoint: 1
 --- !u!114 &8744113938840003191
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -347,7 +351,7 @@ BoxCollider2D:
   m_Offset: {x: 0.0000000037252903, y: -0.10911329}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.5, y: 0}
     oldSize: {x: 0.15, y: 0.27}
     newSize: {x: 0.15, y: 0.27}
     adaptiveTilingThreshold: 0.5
@@ -370,6 +374,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 1
+  flashlightTransform: {fileID: 0}
   collisionOffset: 0.05
   movementFilter:
     useTriggers: 0
