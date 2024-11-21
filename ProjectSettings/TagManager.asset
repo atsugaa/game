@@ -53,3 +53,6 @@ TagManager:
   - name: Light
     uniqueID: 380164733
     locked: 0
+  - name: Dark
+    uniqueID: 2525618109
+    locked: 0
