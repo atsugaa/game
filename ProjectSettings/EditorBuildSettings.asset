@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LoadingScreen.unity
     guid: f2744a9c4e9e0e54180e9eca94b0a5e1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 0a0ddaeb0f0e043488b737cd9f78fbe3
   - enabled: 1
@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/desa.unity
     guid: 37d8e203163d61043871b4982f1ab371
+  - enabled: 1
+    path: Assets/Scenes/gua.unity
+    guid: 3af4b5c9fb3ab6b4a88d2704a4f903d7
   - enabled: 1
     path: Assets/Scenes/hutan.unity
     guid: 5b6eb7a5fc68631428048012a0f54255

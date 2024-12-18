@@ -4,9 +4,14 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.PlayerLoop;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class PlayerContoller : MonoBehaviour, IDataPersistence
 {
+    public Slider HealthBar;
+
+    public GameObject GameOver;
+    public int health;
     public float moveSpeed = 1f;
     public Transform flashlightTransform;
     public float collisionOffset = 0.05f;
@@ -27,22 +32,38 @@ public class PlayerContoller : MonoBehaviour, IDataPersistence
 
     public void LoadData(GameData data) 
     {
-        if (data.playerPosition.x != 0.0 && data.playerPosition.y != 0.0) {
-            this.transform.position = data.playerPosition;
-            SetFlashlightDirection(data.playerPosition);
+        if (data.health != 0) {
+            if (data.playerPosition.x != 0.0 && data.playerPosition.y != 0.0) {
+                this.transform.position = data.playerPosition;
+                SetFlashlightDirection(data.playerPosition);
+            } else {
+                SetFlashlightDirection(this.transform.position);
+            }
+            health = data.health;
         } else {
-            SetFlashlightDirection(this.transform.position);
+            health = 2;
         }
     }
 
     public void SaveData(GameData data) 
     {
-        data.playerPosition = this.transform.position;
-        data.sceneName = SceneManager.GetActiveScene().name;
+        if (data.sceneName != SceneManager.GetActiveScene().name) {
+            data.playerPosition.x = 0.0f;
+            data.playerPosition.y = 0.0f;
+            data.sceneName = SceneManager.GetActiveScene().name;
+        } else {
+            data.playerPosition = this.transform.position;
+        }
+        data.health = health;
     }
 
     // Update is called once per frame
     private void Update() {
+        HealthBar.value = health;
+        if (health<=0) {
+            health = 0;
+            GameOver.SetActive(true);
+        }
         if (!PauseMenu.isPaused) {
             //if movement input not 0, try to move
             if (movementInput != Vector2.zero) {

@@ -11,7 +11,7 @@ TagManager:
   - Light
   - Water
   - UI
-  - 
+  - Obstacle
   - 
   - 
   - 
@@ -47,6 +47,12 @@ TagManager:
   - name: Player
     uniqueID: 3914955289
     locked: 0
+  - name: test
+    uniqueID: 3730881441
+    locked: 0
+  - name: Monster
+    uniqueID: 879601131
+    locked: 0
   - name: object
     uniqueID: 1471469655
     locked: 0
@@ -55,4 +61,7 @@ TagManager:
     locked: 0
   - name: Dark
     uniqueID: 2525618109
+    locked: 0
+  - name: UI
+    uniqueID: 2190827819
     locked: 0

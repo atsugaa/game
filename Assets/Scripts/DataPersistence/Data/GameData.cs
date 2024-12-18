@@ -15,7 +15,7 @@ public class GameData
     // the game starts with when there's no data to load
     public GameData() 
     {
-        health = 100;
+        health = 2;
         playerAttributesData = new AttributesData();
         sceneName = "laboratorium";
     }

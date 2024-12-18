@@ -117,8 +117,8 @@ TextureImporter:
         y: 79
         width: 211
         height: 241
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.50183296, y: 0.029394506}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -138,8 +138,8 @@ TextureImporter:
         y: 83
         width: 160
         height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.46132755, y: 0.20280032}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -159,8 +159,8 @@ TextureImporter:
         y: 43
         width: 191
         height: 277
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -173,48 +173,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ready_to_use_houses_3
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 99
-        width: 32
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f3cc24dff5edda64a9fc622a02645dd0
-      internalID: 1205492494
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ready_to_use_houses_4
-      rect:
-        serializedVersion: 2
-        x: 610
-        y: 116
-        width: 11
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d69f94ebdb1738a4b9f85f11139c7fd6
-      internalID: -671260670
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: ready_to_use_houses_5
       rect:
         serializedVersion: 2
@@ -222,8 +180,8 @@ TextureImporter:
         y: 22
         width: 186
         height: 298
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.50388986, y: 0.1534181}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -243,8 +201,8 @@ TextureImporter:
         y: 43
         width: 390
         height: 277
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.49165103, y: 0.2136295}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -264,8 +222,8 @@ TextureImporter:
         y: 73
         width: 169
         height: 247
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -285,8 +243,8 @@ TextureImporter:
         y: 86
         width: 191
         height: 234
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.45264566, y: 0.061347537}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -306,8 +264,8 @@ TextureImporter:
         y: 98
         width: 132
         height: 158
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.494517, y: 0.15266505}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -327,8 +285,8 @@ TextureImporter:
         y: 95
         width: 5
         height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -336,216 +294,6 @@ TextureImporter:
       bones: []
       spriteID: 724fae7359bc6884b9f6366d1c4df065
       internalID: -1624913560
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ready_to_use_houses_11
-      rect:
-        serializedVersion: 2
-        x: 278
-        y: 76
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ede1dcdf3431044d9f9103d67a19ad5
-      internalID: 853802728
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ready_to_use_houses_12
-      rect:
-        serializedVersion: 2
-        x: 287
-        y: 73
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8521820a1f011a34c8bf299681089e63
-      internalID: 2085303101
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ready_to_use_houses_13
-      rect:
-        serializedVersion: 2
-        x: 1359
-        y: 71
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4994e2a40c593e4d9185746a9a15eef
-      internalID: 868364397
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ready_to_use_houses_14
-      rect:
-        serializedVersion: 2
-        x: 1368
-        y: 68
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: df4aea3253a13624d99b622097204522
-      internalID: 1487600276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ready_to_use_houses_15
-      rect:
-        serializedVersion: 2
-        x: 485
-        y: 35
-        width: 22
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: abe71d75a38b2d14cbe95a357b5e4ca3
-      internalID: -1182807117
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ready_to_use_houses_16
-      rect:
-        serializedVersion: 2
-        x: 1032
-        y: 37
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75cf08af0e69f7b4a961d9f96a00e958
-      internalID: 1089560247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ready_to_use_houses_17
-      rect:
-        serializedVersion: 2
-        x: 1038
-        y: 40
-        width: 11
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 113797e3f3656d04bb6dc43fd91ce334
-      internalID: -2076141232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ready_to_use_houses_18
-      rect:
-        serializedVersion: 2
-        x: 552
-        y: 22
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 90f2fc7d620107a41b54f7d611b6f7f4
-      internalID: -171171105
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ready_to_use_houses_19
-      rect:
-        serializedVersion: 2
-        x: 552
-        y: 8
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad690c5e8b36f5f4eb3d0aef057710d8
-      internalID: -2078375108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ready_to_use_houses_20
-      rect:
-        serializedVersion: 2
-        x: 558
-        y: 11
-        width: 11
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fced6ff4af0d3974894719a2572cc3ff
-      internalID: -1660147604
       vertices: []
       indices: 
       edges: []
